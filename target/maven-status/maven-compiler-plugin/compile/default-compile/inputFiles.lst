@@ -1,8 +1,0 @@
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/config/SocketIOConfig.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/model/User.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/client/SocketIOClient.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/facade/UserFacade.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/SpringBootWebsocketExampleApplication.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/model/UserResponse.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/service/UserService.java
-/home/vend/workspace/idea-projects/spring-boot-socket.io-demo/src/main/java/com/springbootwebsocketexample/service/SocketIOService.java
