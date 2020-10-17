@@ -40,7 +40,7 @@ public class SocketIOService {
         stop();
     }
 
-    public void start() {
+    private void start() {
         // Listening Clients Connections
         socketIOServer.addConnectListener(client -> {
             log.info("************ Client: " + getIpByClient(client) + " Connected ************");
@@ -64,7 +64,7 @@ public class SocketIOService {
         socketIOServer.start();
     }
 
-    public void stop() {
+    private void stop() {
         if (socketIOServer != null) {
             socketIOServer.stop();
             socketIOServer = null;
